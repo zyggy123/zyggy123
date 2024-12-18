@@ -8,6 +8,10 @@ Hey there! I'm **zyggy123**, a coding enthusiast who's still learning the ropes,
 - 🚀 Jumping into random open-source projects—especially anything related to **AzerothCore** or **TrinityCore**. I’m the guy who likes to stick his nose where it doesn’t belong. 😅
 - 🧑‍💻 Not afraid to break things just to see how they work (or don't work). 
 
+## 🤖 AI Enthusiast
+
+I’m super interested in **AI**—whether it’s generating **text**, creating **images**, synthesizing **voices**, or even working with **videos**. I love exploring how AI can push the boundaries of creativity and problem-solving in all these areas. Expect to see me tinkering with AI models and tools whenever I can! 😎
+
 ## 🧙‍♂️ WoW Core Modules (Yes, I’m That Guy)
 
 I spend a lot of time poking around **AzerothCore** and **TrinityCore** projects. I might not be a pro, but I love seeing how things tick.
@@ -25,6 +29,10 @@ Other WoW core projects I like to explore:
 - **CMangos**: One of the oldest and most stable WoW server emulators.
 - **MangosZero**: For those nostalgic for the classic experience.
 
+
+### Fan of WoW, especially **Wrath of the Lich King**. 
+
+**For the Horde!** ⚔️
 ## 📊 GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=zyggy123&show_icons=true&count_private=true&hide_title=true&hide=prs)
@@ -32,6 +40,11 @@ Other WoW core projects I like to explore:
 ## 🧑‍💻 Programming Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyggy123&layout=compact&langs_count=10)
+
+
+## 🏆 GitHub Trophy
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zyggy123&theme=radical&margin-w=15&margin-h=15)
 
 ## 📫 Reach Out
 
@@ -43,6 +56,3 @@ Got a question? Want to chat about WoW cores? Or just need a fellow tinkerer to 
 
 ---
 
-### Fan of WoW, especially **Wrath of the Lich King**. 
-
-**For the Horde!** ⚔️
